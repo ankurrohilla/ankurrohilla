@@ -1,4 +1,5 @@
 ### Hi there 👋 i am [ Ankur ]
+<img align="right" alt="GIF" src="gif.gif" width="300"/>
 <div style='font-size:1.2em'>
 	<b>Full stack Dev and Programming Enthusiast</b>
 	<br>
